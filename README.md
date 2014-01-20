@@ -1,2 +1,2 @@
-AVR-Simulator
+AVR Simulator
 =============
